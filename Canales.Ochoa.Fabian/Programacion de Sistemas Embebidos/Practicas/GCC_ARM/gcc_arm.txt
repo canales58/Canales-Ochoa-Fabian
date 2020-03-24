@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main(void)
+{
+  int f;
+  int c;
+  printf("Ingresa un numero porfa/n");
+  scanf("%d" , &c):
+  for(f=1;f<11;f++)
+  {
+    c = c + 2;
+    printf("El numero es: %d/n", c);
+
+ }
+ return 0;
+ }
